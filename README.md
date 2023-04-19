@@ -36,6 +36,7 @@ Following are the list of resources and tools that should help to learn and work
 - [DevOps Wish](https://devopsish.com/)
 - [Golang Weekly](https://golangweekly.com/)
 - [Last Week in k8s development](https://github.com/kubernetes-sigs/lwkd)
+- [Learnk8s](https://learnk8s.io/newsletter)
 
 ## Podcasts
 - [kubernetes podcast](https://kubernetespodcast.com/)
