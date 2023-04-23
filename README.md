@@ -44,7 +44,7 @@ Following are the list of resources and tools that should help to learn and work
 
 ## Books
 
-- [Kubernetes Basics and Beyond](https://learning.oreilly.com/library/view/-/9781839211256/)
+- [Mastering Kubernetes](https://learning.oreilly.com/library/view/-/9781839211256/)
 - [The Kubernetes Bible](https://learning.oreilly.com/library/view/the-kubernetes-bible/9781838827694/)
 - [Core Kubernetes](https://learning.oreilly.com/videos/-/9781617297557AU/)
 - [Kubernetes Patterns](https://learning.oreilly.com/library/view/-/9781098131678/)
