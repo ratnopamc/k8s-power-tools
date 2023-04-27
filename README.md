@@ -41,6 +41,7 @@ Following are the list of resources and tools that should help to learn and work
 ## Podcasts
 - [kubernetes podcast](https://kubernetespodcast.com/)
 - [TGIK8s](https://github.com/vmware-tanzu/tgik)
+- [Brett Fisher Podcast](https://podcast.bretfisher.com/)
 
 ## Books
 
